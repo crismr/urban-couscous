@@ -29,6 +29,7 @@ public class Prueba1 {
 		int i = 5;
 		Object o2 = i; 									//Integer es una clase que equivale al tipo primitivo int
 				//= new Integer(i); 
+		System.out.println(o2);
 		
 	}
 
